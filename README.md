@@ -8,7 +8,7 @@ The game consists in a 10x10 grid where an agent (purple circle) must reach a go
 Here is an example of the environment, a 10x10 grid where there is an agent (P, for purple), a goal (G, for Green) and an enemy (R, for Red).
 The Agent is able to move up, down, right and left, as well as the enemy. The food is static.
 
-
+```
    _  _  _  _  _  _  _  _  _  _
   |                             |
   |                         G   |
@@ -20,3 +20,4 @@ The Agent is able to move up, down, right and left, as well as the enemy. The fo
   |                             |
   |     P                       |
   |_  _  _  _  _  _  _  _  _  _ |
+```
